@@ -47,6 +47,9 @@ Values in the 'control' - channel have to be set with ack=false to trigger an ac
 - (copilot) Adapter requires js-controller >= 6.0.11 now
 - (copilot) Adapter requires admin >= 7.6.17 now
 
+### 0.4.2 alpha 12 (2026-11-15)
+-   (Willi-Wunder) Bug fixes
+
 ### 0.4.2 (2024-11-08)
 
 -   (forelleblau) testing and dependencies updated
